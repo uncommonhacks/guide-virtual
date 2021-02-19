@@ -1,4 +1,5 @@
-We cannot wait for you to ~virtually~ attend [Uncommon Hacks](https://hacks2021.uncommonhacks.com) April 2-4.
+We cannot wait for you to *virtually* attend
+[Uncommon Hacks](https://hacks2021.uncommonhacks.com) April 2-4.
 We hope you make friends, learn, meme out, but
 most importantly, have fun ᖍ(ツ)ᖌ.
 
@@ -7,16 +8,18 @@ most importantly, have fun ᖍ(ツ)ᖌ.
 ## What do I need to participate this year?
 
 -  Computer
-  -  because Uncommon Hacks is virtual this year,
-     you will need an internet-enabled device to participate
+   -  Because Uncommon Hacks is virtual this year,
+      you will need an internet-enabled device to participate
 -  Video Camera and Microphone
-  - these items are not required, but they will help you connect with other
-    hackers and interact with speakers during workshops
+   -  These items are not required, but they will help you connect with other
+      hackers and interact with speakers during workshops
 -  VPN
-   -  Unfortunately, both Twitch and Discord require a VPN if accessed from certain regions such as China.
+   -  Both Discord and Twitch require a
+   VPN if accessed from certain regions such as China.
       - Recommended VPN: [Astrill](https://www.astrill.com/)
 -  Software
    -  [Discord](https://discord.com)
+      - Discord can be accessed in a web browser, but the desktop or mobile application is recommended
 -  Websites
    -  [Devpost](https://uncommon-hacks-2021.devpost.com)
    -  [Twitch](https://www.twitch.tv/)

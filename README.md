@@ -58,17 +58,26 @@ All times are in UTC-05:00, Chicago time!
 
 **FRIDAY APRIL 2nd**
 
-* 4:00 PM – Workshops Block 1
-* 8:00 PM – Social Time
+* 4:00 PM - [Tech Recruiting](https://www.facebook.com/events/297488921754067)
+* 6:00 PM - [Intro to Programming](https://www.facebook.com/events/460401055406392)
+* 7:00 PM - [Intro to Git](https://www.facebook.com/events/463066411629186)
+* 8:00 PM - [Critical Analysis of Cyberpunk](https://www.facebook.com/events/759405498078850)
+* 9:00 PM – social time with uh time
 
 **SATURDAY APRIL 3rd**
 
-* 11:00 AM – Team Formation
-* 11:30 AM – Interacting with sponsors
-* 1:00 PM – Opening ceremony
-* 2:00 PM – Hacking starts
-* 3:00 PM – Workshops Block 2
-* 7:00 PM – ~Mystery events~
+* 11:00 AM – team formation
+* 11:30 AM – interacting with sponsors
+* 1:00 PM – opening ceremony
+* 2:00 PM – hacking starts
+* 2:00 PM - [Quantum Hacks](https://www.facebook.com/events/288526626210902)
+* 3:00 PM - [Intro to Front-End Web Dev](https://www.facebook.com/events/1377433892611789)
+* 4:00 PM - [Intro to Back-End](https://www.facebook.com/events/511412866539783)
+* 5:00 PM - [3D + AR](https://www.facebook.com/events/272899754364098)
+* 6:00 PM - [Generative Music](https://www.facebook.com/events/808509363205672)
+* 7:00 PM - social time begins
+* 8:00 PM - [Game Mechanics](https://www.facebook.com/events/481717142862687)
+* 10:00 PM - dress-up party
 
 Friday’s workshops will be more focused on introducing base concepts across
 the different fields where you might want to develop your project, while Saturday’s
@@ -76,12 +85,13 @@ workshops will dive more deeply into using specific technologies.
 Also, be ready for fun surprise mini-events happening throughout the event ;)
 
 **SUNDAY APRIL 4th**
-
-* 11:00 AM – Pitching Workshop
-* 11:30 AM – Hacker Peer Feedback Session
-* 2:00 PM – Hacking Ends
-* 2:30 PM – Sponsor Booths
-* 4:30 PM – Closing Ceremony + Awards
+* 8:00 AM - morning meditation
+* 9:00 AM - yoga!
+* 11:00 AM – pitching workshop
+* 11:30 AM – hacker peer feedback session
+* 2:00 PM – hacking ends
+* 2:30 PM – sponsor booths
+* 4:30 PM – closing ceremony + awards
 
 # At the Event
 

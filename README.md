@@ -58,10 +58,10 @@ All times are in UTC-05:00, Chicago time!
 
 **FRIDAY APRIL 2nd**
 
-* 4:00 PM - [Tech Recruiting](https://www.facebook.com/events/297488921754067)
-* 6:00 PM - [Intro to Programming](https://www.facebook.com/events/460401055406392)
-* 7:00 PM - [Intro to Git](https://www.facebook.com/events/463066411629186)
-* 8:00 PM - [Critical Analysis of Cyberpunk](https://www.facebook.com/events/759405498078850)
+* 4:00 PM - [tech recruiting](https://www.facebook.com/events/297488921754067)
+* 6:00 PM - [intro to programming](https://www.facebook.com/events/460401055406392)
+* 7:00 PM - [intro to git](https://www.facebook.com/events/463066411629186)
+* 8:00 PM - [critical analysis of cyberpunk](https://www.facebook.com/events/759405498078850)
 * 9:00 PM – social time with uh time
 
 **SATURDAY APRIL 3rd**
@@ -70,13 +70,13 @@ All times are in UTC-05:00, Chicago time!
 * 11:30 AM – interacting with sponsors
 * 1:00 PM – opening ceremony
 * 2:00 PM – hacking starts
-* 2:00 PM - [Quantum Hacks](https://www.facebook.com/events/288526626210902)
-* 3:00 PM - [Intro to Front-End Web Dev](https://www.facebook.com/events/1377433892611789)
-* 4:00 PM - [Intro to Back-End](https://www.facebook.com/events/511412866539783)
+* 2:00 PM - [quantum hacks](https://www.facebook.com/events/288526626210902)
+* 3:00 PM - [intro to front-end web dev](https://www.facebook.com/events/1377433892611789)
+* 4:00 PM - [intro to back-end](https://www.facebook.com/events/511412866539783)
 * 5:00 PM - [3D + AR](https://www.facebook.com/events/272899754364098)
-* 6:00 PM - [Generative Music](https://www.facebook.com/events/808509363205672)
+* 6:00 PM - [generative music](https://www.facebook.com/events/808509363205672)
 * 7:00 PM - social time begins
-* 8:00 PM - [Game Mechanics](https://www.facebook.com/events/481717142862687)
+* 8:00 PM - [game mechanics](https://www.facebook.com/events/481717142862687)
 * 10:00 PM - dress-up party
 
 Friday’s workshops will be more focused on introducing base concepts across

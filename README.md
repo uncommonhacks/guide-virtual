@@ -61,14 +61,15 @@ All times are in UTC-05:00, Chicago time!
 
 * 4:00 PM - [tech recruiting](https://www.facebook.com/events/297488921754067)
 * 5:00 PM - [intro to programming](https://www.facebook.com/events/460401055406392)
+* 5:30 pm – [hacks x hack night](https://m.facebook.com/#!/events/201741408014605/?acontext=%7B%22source%22%3A%2229%22%2C%22ref_notif_type%22%3A%22group_local_event_create%22%2C%22action_history%22%3A%22null%22%7D&notif_t=group_local_event_create&notif_id=1617236122084919&ref=m_notif)
 * 7:00 PM - [intro to git](https://www.facebook.com/events/463066411629186)
 * 8:00 PM - [critical analysis of cyberpunk](https://www.facebook.com/events/759405498078850)
-* 9:00 PM – social time with uh time
+* 9:00 PM – social time with uh team
 
 **SATURDAY APRIL 3rd**
 
 * 11:00 AM – team formation
-* 11:30 AM – interacting with sponsors
+* 11:30 AM – sponsor fair
 * 1:00 PM – opening ceremony
 * 2:00 PM – hacking starts
 * 2:00 PM - [quantum hacks](https://www.facebook.com/events/288526626210902)
@@ -79,6 +80,7 @@ All times are in UTC-05:00, Chicago time!
 * 7:00 PM - social time begins
 * 8:00 PM - [game mechanics](https://www.facebook.com/events/481717142862687)
 * 10:00 PM - dress-up party
+* 11:00 PM - ;)
 
 Friday’s workshops will be more focused on introducing base concepts across
 the different fields where you might want to develop your project, while Saturday’s

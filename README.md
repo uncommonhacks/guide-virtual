@@ -59,7 +59,7 @@ All times are in UTC-05:00, Chicago time!
 **FRIDAY APRIL 2nd**
 
 * 4:00 PM - [tech recruiting](https://www.facebook.com/events/297488921754067)
-* 6:00 PM - [intro to programming](https://www.facebook.com/events/460401055406392)
+* 5:00 PM - [intro to programming](https://www.facebook.com/events/460401055406392)
 * 7:00 PM - [intro to git](https://www.facebook.com/events/463066411629186)
 * 8:00 PM - [critical analysis of cyberpunk](https://www.facebook.com/events/759405498078850)
 * 9:00 PM – social time with uh time

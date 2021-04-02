@@ -25,6 +25,7 @@ most importantly, have fun ᖍ(ツ)ᖌ.
    -  [Twitch](https://www.twitch.tv/)
    -  [Github](https://github.com/uncommonhacks)
    -  [Gather.town](https://gather.town)
+   -  [Replit](repl.it) (Sponsor) You can find a 3-Month Hacker Plan code and starter guide [here.](https://replit.com/@amatai/replguide#replit_guide.md)
    -  Additional platforms will be updated and confirmed before the event
 
 
